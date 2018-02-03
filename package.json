@@ -1,0 +1,26 @@
+{
+  "name": "creatucumple",
+  "version": "1.0.0",
+  "description": "Servidor de aplicacion crea tu cumple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelabarca/creatucumple.git"
+  },
+  "keywords": [
+    "cumpleaños",
+    "fiesta",
+    "creatucumple",
+    "crear",
+    "cotillon"
+  ],
+  "author": "Manuel Labarca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelabarca/creatucumple/issues"
+  },
+  "homepage": "https://github.com/manuelabarca/creatucumple#readme"
+}
